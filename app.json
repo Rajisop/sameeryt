@@ -3,15 +3,15 @@
   "description": "An easy to install ModMail bot for Discord - DM to contact mods!",
   "repository": "https://github.com/rajisop/sameeryt",
   "env": {
-    "TOKEN": {
+    "NjE3NjA0NzI5NjY4NzYzNjQ4.XW6qQQ.qaCEF_VVcX7-goahDIuxEck51_c": {
         "description": "Your discord bot's token.",
         "required": true
     },
-    "GUILD_ID": {
+    "615097270446194708": {
       "description": "The id for the server you are hosting this bot for.",
       "required": true
     },
-    "PREFIX": {
+    ".": {
       "description": "Command prefix to use.",
       "required": false
     }
